@@ -14,8 +14,7 @@ This repo is a living archive of my growth — from first honeypot floods to ful
 - 🎯 **Track:** Purple Team (Blue by Day, Red by Purpose)
 - 🛡️ **Role:** Tier II IT Support / Cybersecurity Trainee
 - ⚙️ **Focus Areas:**  
-  - Threat Recon & Nmap Scanning  
-  - Honeypot Deployment & Log Analysis  
+  - Threat Recon & Nmap Scanning 
   - Microsoft 365 / Intune / Entra ID  
   - Bash / Python Automation  
   - Raspberry Pi Cyber Nodes
@@ -26,7 +25,6 @@ This repo is a living archive of my growth — from first honeypot floods to ful
 
 | Project | Description |
 |--------|-------------|
-| `honeypot-analysis/` | T-Pot honeypot logs, attack types, parsed patterns |
 | `pi-recon-node/`     | Purple Team recon box built on Raspberry Pi Zero 2 W |
 | `nmap-recon/`        | Real-world scan examples + automation scripts |
 | `fortigate-response/` | Sanitized Fortigate incident report & postmortem |
@@ -42,8 +40,8 @@ This repo is a living archive of my growth — from first honeypot floods to ful
 
 ## 📫 Contact / Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yourprofile) *(Insert real link)*
-- 💻 [GitHub](https://github.com/yourgithubusername)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/robin-versloot-879b7511b/)
+- 💻 [GitHub](https://github.com/RobinV87)
 - 📬 Contact available upon request for collaborations, feedback, or CTF ops
 
 ---
